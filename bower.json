@@ -1,0 +1,7 @@
+{
+  "name": "sportily-angular-api",
+  "version": "0.1.0",
+  "dependencies": {
+    "restangular": "1.4.0"
+  }
+}

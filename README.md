@@ -1,1 +1,0 @@
-# sportily-angular-api
