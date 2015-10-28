@@ -60,18 +60,34 @@
 
   endpoints = {
     'age-groups': 'AgeGroups',
+    'calendar-events': 'CalendarEvents',
     'clubs': 'Clubs',
     'competitions': 'Competitions',
+    'contacts': 'Contacts',
+    'division-entries': 'DivisionEntries',
     'divisions': 'Divisions',
+    'documents': 'Documents',
+    'events': 'Events',
+    'files': 'Files',
+    'fixture-entries': 'FixtureEntries',
     'fixtures': 'Fixtures',
+    'galleries': 'Galleries',
+    'images': 'Images',
     'members': 'Members',
     'organisations': 'Organisations',
+    'participants': 'Participants',
     'people': 'People',
+    'posts': 'Posts',
+    'publications': 'Publications',
     'registrations': 'Registrations',
     'roles': 'Roles',
     'seasons': 'Seasons',
+    'settings': 'Settings',
+    'suspensions': 'Suspensions',
     'teams': 'Teams',
-    'users': 'Users'
+    'transactions': 'Transactions',
+    'users': 'Users',
+    'venues': 'Venues'
   };
 
   _.each(endpoints, function(service, endpoint) {
