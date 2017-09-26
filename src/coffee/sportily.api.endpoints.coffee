@@ -20,6 +20,7 @@ endpoints =
     'images': 'Images'
     'members': 'Members'
     'organisations': 'Organisations'
+    'payments': 'Payments'
     'participants': 'Participants'
     'people': 'People'
     'posts': 'Posts'

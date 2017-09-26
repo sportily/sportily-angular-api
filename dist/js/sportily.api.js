@@ -17,7 +17,7 @@
     var config;
     config = {
       accessToken: null,
-      baseUrl: 'http://oauth.sporti.ly'
+      baseUrl: 'https://oauth.sporti.ly'
     };
     this.setAccessToken = function(accessToken) {
       return config.accessToken = accessToken;
@@ -75,6 +75,7 @@
     'images': 'Images',
     'members': 'Members',
     'organisations': 'Organisations',
+    'payments': 'Payments',
     'participants': 'Participants',
     'people': 'People',
     'posts': 'Posts',
