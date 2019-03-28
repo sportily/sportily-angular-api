@@ -17,7 +17,7 @@
     var config;
     config = {
       accessToken: null,
-      baseUrl: 'https://oauth.sporti.ly'
+      baseUrl: 'https://api.sportilyapp.com'
     };
     this.setAccessToken = function(accessToken) {
       return config.accessToken = accessToken;

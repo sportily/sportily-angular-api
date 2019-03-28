@@ -22,7 +22,7 @@ module.provider 'SportilyApi', ->
     # default configuration values.
     config =
         accessToken: null
-        baseUrl: 'https://oauth.sporti.ly'
+        baseUrl: 'https://api.sportilyapp.com'
 
 
     ##
