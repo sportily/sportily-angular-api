@@ -81,7 +81,7 @@
     'posts': 'Posts',
     'publications': 'Publications',
     'registrations': 'Registrations',
-    'registration-roles': 'RegistrationsRoles',
+    'registration-roles': 'RegistrationRoles',
     'roles': 'Roles',
     'seasons': 'Seasons',
     'settings': 'Settings',
