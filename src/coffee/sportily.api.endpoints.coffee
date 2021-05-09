@@ -9,6 +9,7 @@ endpoints =
     'clubs': 'Clubs'
     'competitions': 'Competitions'
     'contacts': 'Contacts'
+    'customRegistrationFields': 'customRegistrationFields'
     'division-entries': 'DivisionEntries'
     'divisions': 'Divisions'
     'documents': 'Documents'
